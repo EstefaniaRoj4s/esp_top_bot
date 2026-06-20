@@ -1,6 +1,6 @@
 import random
 
-
+#actualizado
 def gen_pass(pass_length):
     elements = "+-/*!&$#?=@<>"
     password = ""
